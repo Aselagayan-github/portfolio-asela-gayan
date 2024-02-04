@@ -30,6 +30,6 @@ With a relentless curiosity for technology and a commitment to continuous learni
 
 <h2>Project GUI</h2>
 
-<img src="photo/1.PNG" width="450"/>
+<img src="Capture.PNG" width="450"/>
 
 ⭐ Thank you for visiting my GitHub repository! Feel free to explore, fork, and provide feedback. Happy coding! ⭐
