@@ -22,7 +22,7 @@ With a relentless curiosity for technology and a commitment to continuous learni
 </ul>
 <h2>🔗 Connect with Me:
 
-<l3>[LinkedIn]([Asela Gayan](https://www.linkedin.com/in/asela-gayan-503687212/))</l3>
+<l3>[LinkedIn]([Asela Gayan](https://www.linkedin.com/in/asela-gayan-503687212/))  URL - https://asela-portfolio.web.app</l3>
 
   
 <h2>🌈 Let's Collaborate:
