@@ -22,14 +22,13 @@ With a relentless curiosity for technology and a commitment to continuous learni
 </ul>
 <h2>🔗 Connect with Me:
 
-<l3>[LinkedIn]([Asela Gayan](https://www.linkedin.com/in/asela-gayan-503687212/))  URL - https://asela-portfolio.web.app</l3>
+<l3>[LinkedIn]([Asela Gayan](https://www.linkedin.com/in/asela-gayan-503687212/)) URL https://asela-portfolio.web.app</l3>
 
   
 <h2>🌈 Let's Collaborate:
 <p>Open to collaboration, feedback, and new opportunities. Whether you're a fellow developer, recruiter, or enthusiast, let's connect and create something extraordinary together! 🚀</p>
 
 <h2>Project GUI</h2>
-<h1>https://asela-portfolio.web.app</h1>
 
 <img src="Capture.PNG" width="450"/>
 
